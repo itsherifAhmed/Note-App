@@ -1,7 +1,10 @@
-# News App
-Note App & SqfLite &GetX [MVC pattern]
+# Note App ✍🏻
+Note App & SqfLite &GetX [MVC pattern] 👨🏻‍💻
 
 Note app is open-source notes app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
+
+بص بقي يمعلم 👀 ده برنامج نوت يعني تدخل عليه تكتب النوتس المهمه بالنسبالك وكل نوته هيكون ليها عنوتن مخصص ليها عشان تقدر تبحث عنها طيب لو معملتش عنوان هتتسمي لوحدها بدون عنوان تمم يبقي ساتها تبحث عن المحتوي نفسه مش العنوان تمم تمم
+اه ودا مش ابليكيشن تكلم نفسك عليه وتجلد ذاتك وشغل توحد الله يهديك
 
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
@@ -14,12 +17,12 @@ Note app is open-source notes app for Android & ios. It is built with Dart on to
 
 
 
-## About
+## About🤠
 
 Note app using GetX and local database (sqflite) can add note and remove it
 can remove all notes can update note & share it to your social
 
-## Benfit
+## Benfit👻
 
 - [x] [GetX]
 - [x] MVC patterns
@@ -47,7 +50,7 @@ can remove all notes can update note & share it to your social
 
 
 
-## Other Flutter Projects
+## Other Flutter Projects 🔐 
 - [News App](https://github.com/itsherifAhmed/NewsApp)
 - [Device Detail App](https://github.com/itsherifAhmed/device-detail-app)
 - [White board Draw App](https://github.com/itsherifAhmed/draw-app)
@@ -60,7 +63,7 @@ can remove all notes can update note & share it to your social
 - [Login Screen](https://github.com/itsherifAhmed/login-screen)
 
 
-## Dependencies
+## Dependencies 💤
  -  `get: ^4.3.8`
  -  `google_fonts: ^2.1.0`
  -  `sqflite: ^2.0.0+4`
