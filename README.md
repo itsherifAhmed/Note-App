@@ -73,3 +73,28 @@ can remove all notes can update note & share it to your social
  -  `flutter_staggered_grid_view: ^0.4.1`
  -  `share: ^2.0.4`
  -  `lottie: ^1.2.1`
+ -  
+## Directory Structure
+```
+lib
+    │───main.dart
+    |   
+    │───model
+    |    └──Note_model
+    |
+    │───view
+    |    │──add_new_note_page.dart
+    |    │──edit_note_page.dart
+    |    │──home_page.dart
+    |    └──note_detail_page.dart
+    │───controller
+    |    └──note_controller.dart
+    └───helper
+    |     └──database_helper
+    |     
+    │───Wedgets
+         └─alarm_dialog.dart
+         └─searchbar.dart
+
+    
+```
