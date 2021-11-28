@@ -61,12 +61,12 @@ can remove all notes can update note & share it to your social
 
 
 ## Dependencies
-  `get: ^4.3.8`
-  google_fonts: ^2.1.0
-  sqflite: ^2.0.0+4
-  path_provider: ^2.0.7
-  intl: ^0.17.0
-  string_stats: ^0.0.3
-  flutter_staggered_grid_view: ^0.4.1
-  share: ^2.0.4
-  lottie: ^1.2.1
+ -  `get: ^4.3.8`
+ -  `google_fonts: ^2.1.0`
+ -  `sqflite: ^2.0.0+4`
+ -  `path_provider: ^2.0.7`
+ -  `intl: ^0.17.0`
+ -  `string_stats: ^0.0.3`
+ -  `flutter_staggered_grid_view: ^0.4.1`
+ -  `share: ^2.0.4`
+ -  `lottie: ^1.2.1`
