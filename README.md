@@ -31,10 +31,14 @@ Note app using GetX and local database (sqflite) can add note and remove it
 can remove all notes can update note & share it to your social
 
 ## Benfit👻
-
+- [🆗] Welcom Screen
+- [🆗] Home Screen
+- [🆗] Add New Note Page
+- [🆗] Edited Note Page
+- [🆗] Note Detail Page
+- [🆗] Deal With Alert Dialog
 - [x] [GetX]
 - [x] MVC patterns
-- [x] Welcom Screen
 - [x] Deal with Search Delegate .
 - [x] Deal with Sqflite.
 - [✅] Create Note
@@ -44,8 +48,8 @@ can remove all notes can update note & share it to your social
 - [✅] Search about notes
 - [✅] Last Update of Note
 - [✅] Date Time Created of Note
-- [✅] Content Word Count 
-- [✅] Content Char Count 
+- [x] Content Word Count 
+- [x] Content Char Count 
 - [x] Share Note to Social media
 - [x] if you don't add title defultly be UnNammed
 
