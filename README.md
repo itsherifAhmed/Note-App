@@ -36,10 +36,14 @@ can remove all notes can update note & share it to your social
 - [🆗] Add New Note Page
 - [🆗] Edited Note Page
 - [🆗] Note Detail Page
-- [🆗] Deal With Alert Dialog
 - [x] [GetX]
 - [x] MVC patterns
 - [x] Deal with Search Delegate .
+- [x] Deal With Alert Dialog
+- [x] Content Word Count 
+- [x] Content Char Count 
+- [x] Share Note to Social media
+- [x] if you don't add title defultly be UnNammed
 - [x] Deal with Sqflite.
 - [✅] Create Note
 - [✅] Update Note
@@ -48,10 +52,6 @@ can remove all notes can update note & share it to your social
 - [✅] Search about notes
 - [✅] Last Update of Note
 - [✅] Date Time Created of Note
-- [x] Content Word Count 
-- [x] Content Char Count 
-- [x] Share Note to Social media
-- [x] if you don't add title defultly be UnNammed
 
 ## Snapshots
 
