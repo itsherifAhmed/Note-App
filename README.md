@@ -34,12 +34,19 @@ can remove all notes can update note & share it to your social
 
 - [x] [GetX]
 - [x] MVC patterns
-- [x] Deal with Sqflite.
+- [x] Welcom Screen
 - [x] Deal with Search Delegate .
-- [x] delete note
-- [x] delete All note
-- [x] Search about notes
-- [x] add notes
+- [x] Deal with Sqflite.
+- [ ] Create Note
+- [ ] Update Note
+- [ ] delete note
+- [ ] delete All note
+- [ ] Search about notes
+- [ ] Last Update of Note
+- [ ] Date Time Created of Note
+- [ ] Content Word Count 
+- [ ] Content Char Count 
+- [x] Share Note to Social media
 - [x] if you don't add title defultly be UnNammed
 
 ## Snapshots
